@@ -33,7 +33,7 @@
 
 ## أمر واحد :
 ```
-apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher.git ; cd nexphisher ; bash setup ; bash nexphisher
+apt update ; apt install git -y ; git clone git://github.com/BlackHisoka/nexphisher.git ; cd nexphisher ; bash setup ; bash nexphisher
 ```
 <br>
 <p align="center">
@@ -41,4 +41,5 @@ apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher
 <img width="46%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/nexphisher2.png"/>
 
 قناتي 
+
 https://t.me/Black_R00T
